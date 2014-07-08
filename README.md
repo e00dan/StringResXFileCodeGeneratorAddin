@@ -1,7 +1,7 @@
 StringResXFileCodeGeneratorAddin
 ================================
 
-Addin for MonoDevelop 5.2 which generates Designer.cs files for .resx resource files. Based on (kenkendk/mdresxfilecodegenerator)[https://github.com/kenkendk/mdresxfilecodegenerator].
+Addin for MonoDevelop 5.2 which generates Designer.cs files for .resx resource files. Based on [kenkendk/mdresxfilecodegenerator](https://github.com/kenkendk/mdresxfilecodegenerator).
 
 Why this
 ======
@@ -9,7 +9,7 @@ MonoDevelop has built in ResXFileCodeGenerator and PublicResXCodeGenerator but..
 
 Install
 =======
-Open MonoDevelop addin manager and click install from file. Select .mpack file you have downloaded from (Releases)[https://github.com/Kuzirashi/StringResXFileCodeGeneratorAddin/releases].
+Open MonoDevelop addin manager and click install from file. Select .mpack file you have downloaded from [Releases](https://github.com/Kuzirashi/StringResXFileCodeGeneratorAddin/releases).
 
 Usage
 =====
